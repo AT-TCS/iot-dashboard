@@ -10,12 +10,12 @@ import {
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBWCscNl--oKsYvtIM_ByI_1diSYxfFIHY",
-  authDomain: "iot-visualisation.firebaseapp.com",
-  projectId: "iot-visualisation",
-  storageBucket: "iot-visualisation.appspot.com",
-  messagingSenderId: "703357770045",
-  appId: "1:703357770045:web:2af03aa4dc862733ce0d54",
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
 };
 
 // Initialize Firebase
